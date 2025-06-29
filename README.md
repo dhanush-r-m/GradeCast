@@ -55,7 +55,7 @@ You can personalize the app by modifying the CSS for styling, enhancing the UI, 
 ## 📦 Model in the App
 
 ### **GradeCast**
-- **Predicts**: GPA based on user inputs and historical academic data.
+- **Predicts**: GPA based on user inputs and historical academic data and many more.
 - **Versatile**: Ideal for students and educators looking to track and improve academic performance.
 
 ## 📈 Future Enhancements
